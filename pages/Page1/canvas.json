@@ -29,6 +29,7 @@
             {
               "newButtonColor": "#457AE6",
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+              "resetButtonEnable": true,
               "isCanvas": false,
               "iconSVG": "/formbuilderui/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
               "editedRowIndices": [],
@@ -137,6 +138,7 @@
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "editedRowsData": [],
               "widgetName": "Tabulator1",
+              "newButtonEnable": true,
               "columnOrder": [
                 "name",
                 "age",
@@ -151,7 +153,9 @@
               "parentRowSpace": 10,
               "groupBy": "",
               "hideCard": false,
+              "saveButtonEnable": true,
               "parentColumnSpace": 9.953125,
+              "dynamicTriggerPathList": [],
               "resetButtonColor": "#B0BFCB",
               "primaryColumns": {
                 "name": {
